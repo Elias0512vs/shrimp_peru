@@ -11,7 +11,7 @@ Este proyecto analiza las exportaciones de camarón en Perú, usando Power BI. E
 - Crecimiento interanual (%)
 - Participación de mercado por exportador y país destino (%)
 
-# Archivos en este repo
+## Archivos en este repo
 
 - peru_shrimp_v0_0_1.csv → Dataset base.
 - dashborad_camarones.pbix → Dashboard en Power BI.
